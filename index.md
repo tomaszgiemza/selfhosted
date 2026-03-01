@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Selfhosted PL
 nav_order: 1
 description: "Katalog narzędzi self-hosted z opiniami, wymaganiami i linkami do dokumentacji po polsku"
