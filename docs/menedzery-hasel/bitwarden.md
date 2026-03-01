@@ -2,7 +2,7 @@
 layout: default
 title: Bitwarden / Vaultwarden
 parent: Menedżery haseł
-nav_order: 1
+nav_order: 2
 description: "Vaultwarden – lekki, open-source menedżer haseł kompatybilny z Bitwarden. Opinia, wymagania, konfiguracja Docker."
 permalink: /menedzery-hasel/bitwarden/
 ---
