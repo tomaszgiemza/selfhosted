@@ -25,6 +25,7 @@ heading_anchors: true
 
 # Stopka
 gh_edit_link: false
+last_edit_timestamp: false
 footer_content: "© 2025 Tomasz Giemza · <a href='https://giemza.nl'>giemza.nl</a>"
 
 # SEO plugin
