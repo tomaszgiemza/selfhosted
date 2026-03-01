@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Menedżery haseł
-nav_order: 2
+nav_order: 1
 has_children: true
 description: "Najlepsze menedżery haseł do samodzielnego hostowania – porównanie, opinie, wymagania"
 permalink: /menedzery-hasel
